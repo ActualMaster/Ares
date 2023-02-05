@@ -1,4 +1,4 @@
 # Mythic
 
 
-**g**
+**Bedwars script i made for fun**
