@@ -1,1 +1,1 @@
-local hwid = 1
+--uid shit here soon
